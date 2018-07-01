@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jot It Down</string>
+    <string name="action_settings">Settings</string>
+    <string name="GoogleSignInEn">Log in with Google</string>
+    <string name="LogInEn">Log in</string>
+    <string name="OrEn">or with email</string>
+    <string name="ForgotPasswordEn">Forget Password? Click HERE</string>
+    <string name="SignUpEn">Sign up with Google</string>
+    <string name="CreateAccEn">CREATE ACCOUNT</string>
+    <string name="AlreadyUserEn">Already a user?</string>
+    <string name="WelcomeEn">Hello, Welcome!</string>
+    <string name="WelcomeNoteEn">Write your daily journals here!! Just Jot It Down!</string>
+    <string name="AppNameEn">Jot It Down</string>
+
+
+</resources>

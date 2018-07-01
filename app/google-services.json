@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "641410728503",
+    "firebase_url": "https://jotitdown-e02e4.firebaseio.com",
+    "project_id": "jotitdown-e02e4",
+    "storage_bucket": "jotitdown-e02e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641410728503:android:3a3cd66c81530998",
+        "android_client_info": {
+          "package_name": "com.example.android.jotitdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641410728503-sfna9m09rcra1738ieinp6vpd0oqqg2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStFYtwNCCuZ0g-BCqsVuRxAvPI5UH3J0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
